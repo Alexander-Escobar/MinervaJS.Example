@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  Repositorio oficial de ejemplos para módulos de MinervaJS
+  Official repository of examples for MinervaJS modules
 </p>
 
 <p align="center">
