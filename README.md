@@ -7,7 +7,25 @@
   </a>
 </p>
 
-# MinervaJS Examples
+<h1 align="center">
+  MinervaJS Examples
+</h1>
+
+<p align="center">
+  Repositorio oficial de ejemplos para módulos de MinervaJS
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/npm/v/@minervajs/auditlogs">
+  <img src="https://img.shields.io/npm/l/@minervajs/auditlogs">
+  <img src="https://img.shields.io/node/v/@minervajs/auditlogs">
+  <img src="https://img.shields.io/npm/dm/@minervajs/auditlogs">
+
+</p>
+
+### MinervaJS Examples
+
 Repositorio oficial de ejemplos para módulos de MinervaJS. Ejemplos prácticos de Node.js para registros de auditoría, JDAM, Owlet, manipulación de modelos declarativos, API REST, microservicios, Kubernetes y arquitecturas JavaScript empresariales.
 
 Este repositorio contiene ejemplos prácticos, ejecutables y documentados diseñados para demostrar el uso, integración y buenas prácticas de los diferentes módulos de MinervaJS.
@@ -86,5 +104,6 @@ Todos los ejemplos deben iniciar con:
  * Execution:
  *   node examples/integration/audit.integration.minAuditLevel.js
  */
+ 
  
  
